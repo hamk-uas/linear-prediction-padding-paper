@@ -68,7 +68,7 @@ To reproduce the paper's results:
   python make_dataset_npys.py
   ```
 
-If you want to do training, which is optional because the [hamk-uas/linear-prediction-padding-paper-models](https://github.com/hamk-uas/linear-prediction-padding-paper-models) repository includes trained models:
+If you want to do training (optional because the [hamk-uas/linear-prediction-padding-paper-models](https://github.com/hamk-uas/linear-prediction-padding-paper-models) repository includes trained models):
 
 * **Test model training**: Choose one of the presets from `presets` dict from `job.py`, for example `lp1x1cs`, choose a seed, for example `42`, and train:
   ```shell
