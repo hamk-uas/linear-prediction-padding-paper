@@ -111,6 +111,18 @@ That's the most important bits. There's more:
   python bilinear_test.py
   ```
 
+## Authors
+
+Written by Otto Rosenberg and Olli Niemitalo (Olli.Niemitalo@hamk.fi).
+
+## Copyright
+
+Copyright 2025 HAMK Häme University of Applied Sciences.
+
+## License
+
+Licensed under MIT license (see [LICENSE](LICENSE)).
+
 ## Acknowledgements
 
 The work was supported by the Research Council of Finland funding decision 353076, Digital solutions to foster climate-smart
