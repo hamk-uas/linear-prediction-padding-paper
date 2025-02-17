@@ -1,5 +1,5 @@
 # Linear prediction padding
-This is the repository for the paper "Per-channel auto-regressive linear prediction padding in tiled CNN processing of 2D spatial data" (preprint to be published shortly).
+This is the repository for the paper "Per-channel autoregressive linear prediction padding in tiled CNN processing of 2D spatial data" (preprint to be published shortly).
 
 ![Sample images padded with different methods](fig_padding_samples.png)
 
