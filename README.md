@@ -1,5 +1,5 @@
 # Linear prediction padding
-This is the repository for the paper "Per-channel autoregressive linear prediction padding in tiled CNN processing of 2D spatial data" (preprint to be published shortly).
+This is the source code repository for the paper Olli Niemitalo, Otto Rosenberg, Nathaniel Narra, Olli Koskela, and Iivari Kunttu (2025) **Per-channel autoregressive linear prediction padding in tiled CNN processing of 2D spatial data**. arXiv preprint [arXiv.2502.12300](https://doi.org/10.48550/arXiv.2502.12300).
 
 ![Sample images padded with different methods](fig_padding_samples.png)
 
